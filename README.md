@@ -11,7 +11,9 @@
 
 </div>
 
----
+*<h5 align="center">OpenCore 0.6.3 EFI folder for custom-built
+Intel 8th Gen Desktop</h4>*
+
 
 ## System Specifications
 
@@ -32,7 +34,6 @@
 **Monitor**: PRISM+ X340 Classic (3440x1440@100Hz)  
 **PC Case**: [K39](https://www.youtube.com/watch?v=dyCtUyDmAdU) 
 
----
 ## What works?
 
 - Bluetooth, WLAN, LAN
@@ -42,7 +43,7 @@
 - All USB ports
 - All SMC kexts
 
----
+
 ## Acknowledgements & Notes
 
 - [Official OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Install-Guide/)
