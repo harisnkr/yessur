@@ -11,7 +11,7 @@
 
 </div>
 
-*<h5 align="center">OpenCore 0.6.5 EFI folder for custom-built
+*<h5 align="center">OpenCore 0.6.6 EFI folder for custom-built
 Intel 8th Gen Desktop</h4>*
 
 
@@ -21,7 +21,7 @@ Intel 8th Gen Desktop</h4>*
  
 **OS**: macOS 11.0.1 Big Sur  
 **SMBIOS**: iMac (Retina 5K, 27-inch, 2019)  
-**OpenCore**: 0.6.5
+**OpenCore**: 0.6.6
 **Motherboard**: [ASRock H310M-ITX](http://www.asrock.com/MB/Intel/H310M-ITXac/)  
 **Audio**: Realtek ALC887  
 **CPU**: Intel® Core™ i5-8400   
